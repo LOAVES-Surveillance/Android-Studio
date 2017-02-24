@@ -2,7 +2,7 @@
 
 Variable and function names should be in lower camel case.  Ex: lowerCamelCase
 Class and interface names should be in upper camel case.  Ex: UpperCamelCase
-finals should be in macro case.  Ex: MACRO_CASE
+finals should be in macro case.  Ex: MACRO\_CASE
 
 Allowed magic numbers are -1, 0, and 1. Other values can be utilized via a final (constant).
 
