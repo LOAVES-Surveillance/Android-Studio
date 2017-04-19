@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_camera) {
+<<<<<<< HEAD
             liveVideo fragment = new liveVideo();
             android.support.v4.app.FragmentTransaction fragmentTransaction =
                     getSupportFragmentManager().beginTransaction();
@@ -94,6 +95,15 @@ public class MainActivity extends AppCompatActivity
                     getSupportFragmentManager().beginTransaction();
             fragmentTransaction.replace(R.id.fragment_container, fragment);
             fragmentTransaction.commit();
+=======
+            Intent i = new Intent(MainActivity.this, liveVideo.class);
+            startActivityForResult(i, 0);
+            finish();
+        } else if (id == R.id.nav_gallery) {
+            Intent j = new Intent(MainActivity.this, liveVideo.class);
+            startActivity(j);
+            finish();
+>>>>>>> edfe037452211eab8c87d7403388e404eb34e00c
         } else if (id == R.id.nav_manage) {
             //return true;
         }
@@ -101,5 +111,9 @@ public class MainActivity extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    public void navCamera() {
+
     }
 }
