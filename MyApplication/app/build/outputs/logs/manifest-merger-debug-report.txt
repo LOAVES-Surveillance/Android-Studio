@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:5:5-41:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\Deverl\.android\build-cache\6146683e4797102fb12fc1407c953ef88fd5cce5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Deverl\.android\build-cache\7f8c8f6c6aec6946b08ec1d7f21e4357daf8b39d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Deverl\.android\build-cache\4ac7d2f0869ce45f2d627284b0614f27132d9a85\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Deverl\.android\build-cache\05637221dfc3dc486c1a36c9e5d181fa83c047f0\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\Deverl\.android\build-cache\88b9c2173d4c7ed264bc0a4f6952b8129ed407e3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Deverl\.android\build-cache\975582c02c6b0ced075fe93704b571487bddb426\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Deverl\.android\build-cache\12c82e5e7e38ef56da80a692a70c427d87ee4dce\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Deverl\.android\build-cache\3c55851fe71aeea265b81eae113ed0b565d11eec\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Deverl\.android\build-cache\d1fc7c8809a89ccae21693425a6719e0b40a1733\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Deverl\.android\build-cache\b26e94870aff84cb8ee19e119dc82ecab2e2251c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Deverl\.android\build-cache\eb3ec6abf1aa9477369e429c42c8ba109d5fb549\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deverl\.android\build-cache\298fe075d591d7d60885bff6cf7fb7741df2e2ae\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:8:9-44
+	android:supportsRtl
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.mattw.myapplication.MainActivity
+ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:13:13-48
+	android:theme
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.mattw.myapplication.liveVideo
+ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:23:13-44
+	android:theme
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:22:13-38
+activity#com.example.mattw.myapplication.googleDriveVid
+ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:33:13-39
+	android:theme
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml:32:13-43
+uses-sdk
+INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.0] C:\Users\Deverl\.android\build-cache\6146683e4797102fb12fc1407c953ef88fd5cce5\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Deverl\.android\build-cache\7f8c8f6c6aec6946b08ec1d7f21e4357daf8b39d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Deverl\.android\build-cache\4ac7d2f0869ce45f2d627284b0614f27132d9a85\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Deverl\.android\build-cache\05637221dfc3dc486c1a36c9e5d181fa83c047f0\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\Deverl\.android\build-cache\00f3b87287a21aeada02118b7eb0c80f854f0d75\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\Deverl\.android\build-cache\88b9c2173d4c7ed264bc0a4f6952b8129ed407e3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Deverl\.android\build-cache\975582c02c6b0ced075fe93704b571487bddb426\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Deverl\.android\build-cache\12c82e5e7e38ef56da80a692a70c427d87ee4dce\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Deverl\.android\build-cache\3c55851fe71aeea265b81eae113ed0b565d11eec\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Deverl\.android\build-cache\d1fc7c8809a89ccae21693425a6719e0b40a1733\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Deverl\.android\build-cache\b26e94870aff84cb8ee19e119dc82ecab2e2251c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Deverl\.android\build-cache\eb3ec6abf1aa9477369e429c42c8ba109d5fb549\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deverl\.android\build-cache\298fe075d591d7d60885bff6cf7fb7741df2e2ae\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\Deverl\.android\build-cache\6146683e4797102fb12fc1407c953ef88fd5cce5\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\src\main\AndroidManifest.xml

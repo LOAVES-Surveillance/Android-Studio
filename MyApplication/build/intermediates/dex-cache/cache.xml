@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\eb3ec6abf1aa9477369e429c42c8ba109d5fb549\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_d28fb61df1b3638f97361e0d2c1065de0209a60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\4ac7d2f0869ce45f2d627284b0614f27132d9a85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_1b65718663808c9c25d383a8594b3a4ca5a740d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\7f8c8f6c6aec6946b08ec1d7f21e4357daf8b39d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_d70c72aae8354410f0583606d15df902d47a2bca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="038cd970932d2466ee60b92809c1236e99d243e2">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5d019d901754a3e3fe63db5557c064eb99d92683\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\3c55851fe71aeea265b81eae113ed0b565d11eec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_ff5caa84d49990b37af58d922a67fae8edaca6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\05637221dfc3dc486c1a36c9e5d181fa83c047f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_a9968f2837d13e19a2786fcf54f4e9d4f6866099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\00f3b87287a21aeada02118b7eb0c80f854f0d75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_c474aed29ee4a70d4555f0271eb6ec1d842a2ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\975582c02c6b0ced075fe93704b571487bddb426\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_ced42c5d0694f96c4adae31baf44658115191610.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_51e1d35df5018313ab1fd2a8f47d7d531fdfbcb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\6146683e4797102fb12fc1407c953ef88fd5cce5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_a324713a0454d2683f7cb89bb03e7dd17b6c57cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\12c82e5e7e38ef56da80a692a70c427d87ee4dce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_cebbd6f115a82bf5b56a65d2453c27b0272244c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\d1fc7c8809a89ccae21693425a6719e0b40a1733\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_e7fbb809551386141272daaa54f94084d1a177c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\b26e94870aff84cb8ee19e119dc82ecab2e2251c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_8e06f89f12faf7ad81d4127470c28eec4c9890ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\88b9c2173d4c7ed264bc0a4f6952b8129ed407e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_cd138c32318e37c3fa5895982172e9091115c69f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_ebe5b9a07bc96b4959cc92e7302118fd0a2c5d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\.android\build-cache\298fe075d591d7d60885bff6cf7fb7741df2e2ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\classes_c99d88a49617125fdeda9e693c5bcb05aec9bef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Deverl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Deverl\Documents\GitHub\Android-Studio\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_a7276e46439e396b6e79bdac358671cd29f5d73c.jar" />
+    </item>
+
+</items>
