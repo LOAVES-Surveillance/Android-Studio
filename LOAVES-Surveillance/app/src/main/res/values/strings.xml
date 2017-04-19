@@ -9,4 +9,10 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_intro">Hello Everyone! This is the LOAVES app.  Don\'t be fooled by the app\'s title; this is a very serious app that may save your bacon! Using a camera, LOAVES can help you watch over your home, family, or any other important family belongings.</string>
+    <string name="lorem1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lobortis sapien ac orci ullamcorper varius. Sed luctus tempor lectus nec viverra. Pellentesque mattis imperdiet libero, vel vehicula quam facilisis at. Vivamus ut nibh in eros placerat volutpat eget sit amet orci. Integer in ullamcorper justo. Nam fermentum enim sit amet lorem porttitor molestie vel ut orci. Nulla iaculis porta imperdiet.</string>
+    <string name="lorem2">Vestibulum porttitor mi eu arcu feugiat, ut consectetur velit posuere. Quisque eu viverra massa. Nam dignissim venenatis libero, vitae mollis purus ultricies vitae. Nulla fermentum eget risus nec scelerisque. Sed eu tempor neque. Nam rutrum ullamcorper egestas. Integer rutrum convallis turpis, eu blandit nisi auctor sed.</string>
+    <string name="lorem3">Pellentesque quis augue mauris. Nulla velit arcu, viverra ac vestibulum id, hendrerit ac ante. Morbi sit amet tempus justo, ut dictum justo. Etiam lorem lorem, tristique et orci nec, tempus congue nulla. Duis nibh neque, fringilla quis tellus et, porttitor commodo ligula. Praesent finibus consectetur sollicitudin. Cras porta urna consectetur leo luctus facilisis. Praesent egestas est non venenatis pellentesque. Nulla dui est, vulputate eget dapibus ut, dapibus quis mauris.</string>
+    <string name="github_address_info">The source code for this project can be found at https://github.com/LOAVES-Surveillance</string>
+    <string name="code_creators">This project was made by a group of five students at Utah State University. Go Aggies!</string>
 </resources>
