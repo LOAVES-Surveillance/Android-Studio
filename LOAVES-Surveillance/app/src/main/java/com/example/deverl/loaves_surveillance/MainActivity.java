@@ -1,5 +1,6 @@
 package com.example.deverl.loaves_surveillance;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.FragmentManager;
@@ -87,12 +88,14 @@ public class MainActivity extends AppCompatActivity
             fragmentTransaction.addToBackStack(null);
             fragmentTransaction.commit();
         } else if (id == R.id.nav_gallery) {
-            googleDrive fragment = new googleDrive();
-            android.support.v4.app.FragmentTransaction fragmentTransaction =
-                    getSupportFragmentManager().beginTransaction();
-            fragmentTransaction.replace(R.id.fragment_container, fragment);
-            fragmentTransaction.addToBackStack(null);
-            fragmentTransaction.commit();
+//            googleDrive fragment = new googleDrive();
+//            android.support.v4.app.FragmentTransaction fragmentTransaction =
+//                    getSupportFragmentManager().beginTransaction();
+//            fragmentTransaction.replace(R.id.fragment_container, fragment);
+//            fragmentTransaction.addToBackStack(null);
+//            fragmentTransaction.commit();
+            Intent i = new Intent(this, googleDrive.class);
+            startActivity(i);
         } else if (id == R.id.nav_slideshow) {
             settings fragment = new settings();
             android.support.v4.app.FragmentTransaction fragmentTransaction =

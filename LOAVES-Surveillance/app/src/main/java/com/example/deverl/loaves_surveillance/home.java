@@ -1,6 +1,6 @@
 package com.example.deverl.loaves_surveillance;
 
-
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -47,14 +47,16 @@ public class home extends Fragment implements View.OnClickListener {
                 //lvFragmentTransaction.addToBackStack(null);  // if written, this transaction will be added to backstack
                 lvFragmentTransaction.commit();
                 break;
-            case R.id.recorded_button:
 
-                googleDrive gdFragment = new googleDrive();
-                android.support.v4.app.FragmentTransaction gdFragmentTransaction =
-                        getFragmentManager().beginTransaction();
-                gdFragmentTransaction.replace(R.id.fragment_container, gdFragment);
-                //gdFragmentTransaction.addToBackStack(null);
-                gdFragmentTransaction.commit();
+            case R.id.recorded_button:
+                Intent i = new Intent(getActivity(), googleDrive.class);
+                startActivity(i);
+//                googleDrive gdFragment = new googleDrive();
+//                android.support.v4.app.FragmentTransaction gdFragmentTransaction =
+//                        getFragmentManager().beginTransaction();
+//                gdFragmentTransaction.replace(R.id.fragment_container, gdFragment);
+//                //gdFragmentTransaction.addToBackStack(null);
+//                gdFragmentTransaction.commit();
                 break;
         }
     }
