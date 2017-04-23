@@ -7,10 +7,50 @@
 
 
     <WebView
-        android:layout_width="match_parent"
-        android:layout_height="650px"
+        android:id="@+id/myWebView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="102dp" />
+        android:layout_marginTop="-20dp"
+        android:layout_marginBottom="350dp"
+        android:scrollbars="none"
+        />
+
+    <!--<EditText-->
+        <!--android:id="@+id/editText"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="217dp"-->
+        <!--android:ems="10"-->
+        <!--android:inputType="text|number|numberDecimal"-->
+        <!--android:selectAllOnFocus="true"-->
+        <!--android:singleLine="true"-->
+        <!--android:text="IP Address"-->
+        <!--android:textAlignment="center"-->
+        <!--android:textSize="24sp" />-->
+
+    <!--<Button-->
+        <!--android:id="@+id/button3"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Ok"-->
+        <!--android:layout_marginTop="54dp"-->
+        <!--android:layout_alignTop="@+id/editText"-->
+        <!--android:layout_alignRight="@+id/editText"-->
+        <!--android:layout_alignEnd="@+id/editText"-->
+        <!--android:layout_toEndOf="@+id/button4" />-->
+
+    <!--<Button-->
+        <!--android:id="@+id/button4"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Reset"-->
+        <!--android:layout_alignBaseline="@+id/button3"-->
+        <!--android:layout_alignBottom="@+id/button3"-->
+        <!--android:layout_alignLeft="@+id/editText"-->
+        <!--android:layout_alignStart="@+id/editText" />-->
 </RelativeLayout>
