@@ -79,11 +79,6 @@ public class googleDrive extends Activity implements ConnectionCallbacks,
         Drive.DriveApi.newDriveContents(mGoogleApiClient)
                 .setResultCallback(driveContentsCallback);
     }
-//    @Override
-//    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-//                             Bundle savedInstanceState) {
-//        return inflater.inflate(R.layout.fragment_google_drive, container, false);
-//    }
 
 
     @Override
