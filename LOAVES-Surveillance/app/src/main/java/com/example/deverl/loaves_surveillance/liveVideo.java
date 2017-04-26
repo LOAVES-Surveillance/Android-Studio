@@ -7,11 +7,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
 import android.webkit.WebSettings;
+import android.widget.Button;
 
-public class liveVideo extends Fragment {
+public class liveVideo extends Fragment implements View.OnClickListener {
 
-    String IPAddress = "10.68.5.132"; //144.39.222.67
-    String myurl = "http://"+IPAddress+"/html/min.php";
+    String IPAddress = "144.39.222.13"; //10.68.5.132
+    String myurl = "http:"+IPAddress+"/html/min.php";
     private WebView myWebView;
 
     @Override
@@ -26,5 +27,14 @@ public class liveVideo extends Fragment {
         webSettings.setJavaScriptEnabled(true);
 
         return v;
+    }
+
+    @Override
+    public void onClick(View v) {
+        settings fragment = new settings();
+        android.support.v4.app.FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.fragment_container, fragment);
+        fragmentTransaction.addToBackStack(null);  // if written, this transaction will be added to backstack
+        fragmentTransaction.commit();
     }
 }
