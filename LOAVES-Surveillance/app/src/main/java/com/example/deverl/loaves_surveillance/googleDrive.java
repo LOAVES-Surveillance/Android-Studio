@@ -214,7 +214,7 @@ public class googleDrive extends Activity implements ConnectionCallbacks,
 
         IntentSender intentSender = Drive.DriveApi
                 .newOpenFileActivityBuilder()
-                .setMimeType(new String[] { "video/mp4" })
+                .setMimeType(new String[] { "video/mp4", "video/h264" })
                 .build(mGoogleApiClient);
         try {
             startIntentSenderForResult(
