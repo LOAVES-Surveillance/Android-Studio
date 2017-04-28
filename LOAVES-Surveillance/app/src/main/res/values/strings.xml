@@ -16,4 +16,10 @@
     <string name="lorem3">Pellentesque quis augue mauris. Nulla velit arcu, viverra ac vestibulum id, hendrerit ac ante. Morbi sit amet tempus justo, ut dictum justo. Etiam lorem lorem, tristique et orci nec, tempus congue nulla. Duis nibh neque, fringilla quis tellus et, porttitor commodo ligula. Praesent finibus consectetur sollicitudin. Cras porta urna consectetur leo luctus facilisis. Praesent egestas est non venenatis pellentesque. Nulla dui est, vulputate eget dapibus ut, dapibus quis mauris.</string>
     <string name="github_address_info">The source code for this project can be found at https://github.com/LOAVES-Surveillance</string>
     <string name="code_creators">This project was made by a group of five students at Utah State University. Go Aggies!</string>
+    <string name="about_the_what">Loaves Surveillance is a surveillance system project.  This project allows you to use a Raspberry Pi with a Pi Camera to broadcast live video and store footage on Google Drive.  Recorded and live video can be viewed from the app you are currently using.</string>
+    <string name="about_the_where">Loaves is mostly meant for personal use in the home, but could potentially be used other places. Use it to your liking.</string>
+    <string name="about_the_whence">Loaves began to be developed in February 2017 at Utah State University, Logan, Utah. It was began as a class project.</string>
+    <string name="about_the_how">You can find more information about how to set up your surveillance system at https://github.com/LOAVES-Surveillance.</string>
+    <string name="about_the_why">Loaves is the answer for those who need some surveillance and have a little tech know-how. There is no monthly fee; in fact, it is free. It uses Google Drive for all data storage, so it is as secure as Google is.</string>
+    <string name="about_outro">We hope you enjoy this software and that it helps you to keep your home and possessions safe. If you have comments and suggestions, please create an issue at https://github.com/LOAVES-Surveillance.</string>
 </resources>
